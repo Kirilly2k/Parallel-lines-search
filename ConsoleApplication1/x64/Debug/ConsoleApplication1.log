@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Kirill\Desktop\Projects\Parallel lines\Parallel lines search\Parallel-lines-search\ConsoleApplication1\ConsoleApplication1.cpp(42,19): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Kirill\Desktop\Projects\Parallel lines\Parallel lines search\Parallel-lines-search\ConsoleApplication1\ConsoleApplication1.cpp(42,16): warning C4101: x: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Kirill\Desktop\Projects\Parallel lines\Parallel lines search\Parallel-lines-search\x64\Debug\ConsoleApplication1.exe
